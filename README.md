@@ -1,4 +1,4 @@
-# Hello! I am Jessica Moreira!
+# Hello, I am Jessica Moreira!
 * I am a student at CSUF majoring in computer science. 
 * I am interested in Animation and Web Development.
 
