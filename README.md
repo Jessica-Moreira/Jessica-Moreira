@@ -11,7 +11,7 @@
 * C#
 * C++
 * HTML
-* current learning Python
+* currently learning Python
 
 ### Helpful Skills
 * Bilingual (English and Spanish)
