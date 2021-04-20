@@ -1,0 +1,4 @@
+-Hello, my name is Jessica Moreira, I am a student at CSUF majoring in computer science. 
+-I am interested in animation and web development.
+-Currently learning Ray tracing, Animating in Blender,
+-Programming Languges include: C#, C++, HTML, and learning Python
